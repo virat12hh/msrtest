@@ -16,15 +16,3 @@ mongodb:
     volumes:
         - $HOME/mongo/data/db:/data/db
         
-browser:
-    image: devurandom/firefox
-    container_name: firefox
-    links:
-        - tomcatserver:tomcat
-    hostname: firefox
-    environment:
-        - DISPLAY
-    volumes:
-        - /tmp/.X11-unix:/tmp/.X11-unix
-        - $HOME:/home
-    command: --new-instance tomcat:8080/ tomcat:8080/hits
