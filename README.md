@@ -12,17 +12,3 @@ re-produced on your docker host.
 Follow along by watching my YouTube Tutorial which goes through the entire process here ...
 
 "Deploy Spring Boot to Tomcat MongoDB Docker Containers"
-
-https://youtu.be/XojJV0A3cBw
-
-=================================
-
-Follow me ...
-
-Website:  http://www.mvpjava.com 
-
-Google+ : http://bit.ly/1Jsnnfj 
-
-Facebook: https://www.facebook.com/mvpjava 
-
-Twitter : https://twitter.com/mvpjava
