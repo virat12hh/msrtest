@@ -1,4 +1,4 @@
-# springBootDockerTomcatMongodb
+# springBootDockerTomcatMongodb for MSR test.
 
 Deploy Your Spring Boot WAR to a remote Tomcat Server running in a Docker Container and Container Linked to MongoDB
 
